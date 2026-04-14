@@ -1,1 +1,17 @@
+liga=Liga BetPlay Dimayor 2026
+victoria=3
+empate=1
+derrota=0
 
+equipo=Millonarios
+equipo=SantaFe
+equipo=AtleticoNacional
+equipo=Junior
+equipo=AmericaDeCali
+equipo=DeportivoCali
+equipo=IndependienteMedellin
+equipo=OnceCaldas
+equipo=DeportesTolima
+equipo=LaEquidad
+equipo=Envigado
+equipo=Pereira
