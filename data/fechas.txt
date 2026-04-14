@@ -1,1 +1,17 @@
+JORNADA=1
+PARTIDO:2025-05-01| Millonarios 2 - 1 SantaFe
+PARTIDO:2025-05-01| AtleticoNacional 3 - 2 Junior
+PARTIDO:2025-05-02| AmericaDeCali 1 - 1 DeportivoCali
+PARTIDO:2025-05-02| IndependienteMedellin 2 - 0 OnceCaldas
+PARTIDO:2025-05-03| DeportesTolima 0 - 0 LaEquidad
+PARTIDO:2025-05-03| Envigado 1 - 2 Pereira
+FIN_JORNADA
 
+JORNADA=2
+PARTIDO:2025-05-08| Millonarios 1 - 1 AtleticoNacional
+PARTIDO:2025-05-08| Junior 2 - 0 SantaFe
+PARTIDO:2025-05-09| AmericaDeCali 2 - 1 IndependienteMedellin
+PARTIDO:2025-05-09| OnceCaldas 0 - 2 DeportesTolima
+PARTIDO:2025-05-10| LaEquidad 1 - 0 Envigado
+PARTIDO:2025-05-10| Pereira 3 - 1 DeportivoCali
+FIN_JORNADA
