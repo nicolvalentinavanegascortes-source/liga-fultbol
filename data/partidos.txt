@@ -1,1 +1,13 @@
+2025-05-01|Millonarios|SantaFe|2|1
+2025-05-01|AtleticoNacional|Junior|3|2
+2025-05-02|AmericaDeCali|DeportivoCali|1|1
+2025-05-02|IndependienteMedellin|OnceCaldas|2|0
+2025-05-03|DeportesTolima|LaEquidad|0|0
+2025-05-03|Envigado|Pereira|1|2
 
+2025-05-08|Millonarios|AtleticoNacional|1|1
+2025-05-08|Junior|SantaFe|2|0
+2025-05-09|AmericaDeCali|IndependienteMedellin|2|1
+2025-05-09|OnceCaldas|DeportesTolima|0|2
+2025-05-10|LaEquidad|Envigado|1|0
+2025-05-10|Pereira|DeportivoCali|3|1cd03-05-2025|Pereira|Junior|3|5
